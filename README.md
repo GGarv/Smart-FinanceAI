@@ -9,7 +9,8 @@ Many individuals lack access to personalized financial advice and struggle to pe
 ### *Solution (Building application for Financial advisory using GPT-3.5 Turbo Model, FAISS, LANGCHAIN, RAG Model, Next.JS with Voice Features)*
 Develop an intelligent financial advisor platform that integrates artificial intelligence  to offer personalized financial advice and cash flow analysis to users. This platform will assist users in making informed decisions regarding investments and financial goals, thereby promoting financial empowerment.. This solution aligns with SDGs by addressing the need for financial empowerment to  promote sustainable development.
 
-![SmartFinanceAI](https://github.com/GGarv/Healthopedia/blob/main/public/assets/images/Healthopedia.png)
+![SmartFinanceAI](home.png)
+![SmartFinanceAI](p1.png)
 
 ### Table of Contents
 1. [Introduction](#introduction)
