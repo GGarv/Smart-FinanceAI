@@ -42,8 +42,8 @@ Using Voice Assistace message you can get your advise and can get summary of the
 - **Natural Language Understanding and Generation**: RAG (Retrieval-Augmented Generation)
 - **Model Loading and Interaction**: Hugging Face Model Hub
 - **Web Framework**: FastAPI,Next.js,TailwindCSS
-- **DataBase**: firebase,firestore,fireauth
-- **Authentication**: NextAuth
+- **DataBase**: firebase,firestore
+- **Authentication**: fireauth
 
 ## Functioning of model
 *Data Information*
