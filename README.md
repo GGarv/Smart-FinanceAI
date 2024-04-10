@@ -1,4 +1,4 @@
-# *Won The KrackHack Hackathon, 1st position*
+# *Won The KrackHack Hackathon conducted by GDSC, 1st position*
 ## *Theme:*
 1) AI for Sustainable development goals
 2) Intelligent Financial Advisor
