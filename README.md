@@ -150,7 +150,7 @@ pip install -r requirements.txt
 Login into your firebase account and replace all the credential with your firebase keys in firebase file.
 **Running the Project**
 
-Open the `backend folder`, then run all the `model.ipynb` notebook to launch the server to fetch the model on feed.
+Open the `backend folder`, then run the `model.ipynb` notebook to launch the server to fetch the model on feed for gnereating respoonses based on your queries.
 
 ```bash
 npm run dev
