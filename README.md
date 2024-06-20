@@ -67,7 +67,7 @@ Using Voice Assistace message you can get your advise and can get summary of the
    - The model used for embedding is 'sentence-transformers/all-MiniLM-L6-v2', and it is configured to run on the CPU.
 
 **Converting to vectors and saving it**
-   - Converted text to vector using FAISS class from langchain_community.vectorstores and then saving the data
+   - Converted text to vector using FAISS class from langchain_community.vectorstores and then saved the data.
 
 # **Creating a RAG Using LangChain and FAISS**
 - It creates a retriever using a vector store (`db1`). The retriever is configured for similarity search, enabling the retrieval of documents similar to a given query.
